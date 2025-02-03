@@ -1,0 +1,14 @@
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.AssemblyInfoInputs.cache
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.AssemblyInfo.cs
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.csproj.CoreCompileInputs.cache
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\bin\Debug\net8.0\Uppgift.2.1.1.novo.exe
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\bin\Debug\net8.0\Uppgift.2.1.1.novo.deps.json
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\bin\Debug\net8.0\Uppgift.2.1.1.novo.runtimeconfig.json
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\bin\Debug\net8.0\Uppgift.2.1.1.novo.dll
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\bin\Debug\net8.0\Uppgift.2.1.1.novo.pdb
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.dll
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\refint\Uppgift.2.1.1.novo.dll
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.pdb
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\Uppgift.2.1.1.novo.genruntimeconfig.cache
+C:\Users\annkr\source\repos\Uppgift.2.1.1.novo\Uppgift.2.1.1.novo\obj\Debug\net8.0\ref\Uppgift.2.1.1.novo.dll
